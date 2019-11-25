@@ -5,7 +5,7 @@ Youkulele is an application to help users compose their own simple songs and the
 
 ## Running the project
 
-To run the project, run "compose.py" in your Python IDE.
+To run the project, run "compose.py" in your preferred python environment.
 
 ## Dependencies
 
